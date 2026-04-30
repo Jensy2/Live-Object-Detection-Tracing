@@ -1,8 +1,12 @@
 streamlit
 streamlit-webrtc
 ultralytics
-opencv-python-headless
+opencv-python
 av
 torch
 torchvision
 numpy
+pillow
+scipy
+matplotlib
+tornado
